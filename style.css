@@ -82,7 +82,7 @@ body {
 
 #page-1 p {
   transform: translateX(-1800px);
-  animation: paragraf var(--animation-speed) ease-in 2s forwards;
+  animation: paragraf var(--animation-speed) ease-in 1s forwards;
 }
 
 /* Keyframes */
